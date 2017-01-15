@@ -1,0 +1,20 @@
+{
+    "name": "dragg/laravel-seed-guarded",
+    "description": "Set seeds by default guarded for Laravel 5.2+",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay Zhidenko",
+            "email": "dragg.ko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dragg\\LaravelSeedsGuarded\\": "src/"
+        }
+    }
+}
