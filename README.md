@@ -13,5 +13,5 @@ composer require dragg/laravel-seed-guarded
 After updating composer, add the service provider to the `providers` array in `config/app.php`
 
 ```php
-Dragg\LaravelSeedsGuarded\SeedServiceProvider::class,
+Dragg\LaravelSeedGuarded\SeedServiceProvider::class,
 ```
