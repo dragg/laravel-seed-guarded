@@ -1,6 +1,6 @@
 <?php
 
-namespace Dragg\LaravelSeedsGuarded\Console;
+namespace Dragg\LaravelSeedGuarded\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Database\Eloquent\Model;

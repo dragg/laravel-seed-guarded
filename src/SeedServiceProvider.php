@@ -1,8 +1,8 @@
 <?php
 
-namespace Dragg\LaravelSeedsGuarded;
+namespace Dragg\LaravelSeedGuarded;
 
-use Dragg\LaravelSeedsGuarded\Console\SeedCommand;
+use Dragg\LaravelSeedGuarded\Console\SeedCommand;
 use Illuminate\Support\ServiceProvider;
 
 class SeedServiceProvider extends ServiceProvider
